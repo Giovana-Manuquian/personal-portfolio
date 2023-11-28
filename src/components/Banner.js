@@ -77,11 +77,11 @@ export const Banner = () => {
                   <p>
                     Estou em busca de uma empolgante oportunidade de carreira na
                     área de Tecnologia da Informação. Meu foco é aprimorar
-                    minhas habilidades em tecnologias essenciais como React,
-                    HTML, CSS e JavaScript, entre outras. Tenho a ambição de
+                    minhas habilidades em tecnologias essenciais como ReactJs,
+                    Java, CSS e JavaScript, entre outras. Tenho a ambição de
                     ampliar minha visão de futuro e crescimento, ao mesmo tempo
-                    em que estou ansioso para desempenhar um papel fundamental
-                    no sucesso de sua empresa. Estou animado para fazer parte de
+                    em que estou ansiosa para desempenhar um papel fundamental
+                    no sucesso de sua empresa. Estou animada para fazer parte de
                     uma equipe dedicada e colaborativa, onde posso contribuir
                     com meu conhecimento e paixão pela tecnologia.
                   </p>
