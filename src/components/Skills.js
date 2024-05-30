@@ -1,6 +1,12 @@
-import meter1 from "../assets/img/meter1.svg.png";
-import meter2 from "../assets/img/meter2.svg";
-import meter3 from "../assets/img/meter3.svg.png";
+import meter1 from "../assets/img/meter1.png";
+import meter2 from "../assets/img/meter2.png";
+import meter3 from "../assets/img/meter3.png";
+import meter4 from "../assets/img/meter4.png";
+import meter5 from "../assets/img/meter5.png";
+import meter6 from "../assets/img/meter6.png";
+import meter7 from "../assets/img/meter7.png";
+import meter8 from "../assets/img/meter8.png";
+import meter9 from "../assets/img/meter9.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import arrow1 from "../assets/img/arrow1.svg";
@@ -53,35 +59,35 @@ export const Skills = () => {
                   <h5>HTML</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter2} alt="Image" />
                   <h5>CSS</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter3} alt="Image" />
                   <h5>JavaScript</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter4} alt="Image" />
                   <h5>Figma</h5>
                 </div>
                 <div className="item">
-                  <img src={meter2} alt="Image" />
+                  <img src={meter5} alt="Image" />
                   <h5>Canva</h5>
                 </div>
                 <div className="item">
-                  <img src={meter3} alt="Image" />
+                  <img src={meter7} alt="Image" />
                   <h5>ReactJs</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter6} alt="Image" />
                   <h5>Inglês</h5>
                 </div>
                 <div className="item">
-                  <img src={meter3} alt="Image" />
+                  <img src={meter8} alt="Image" />
                   <h5>Java</h5>
                 </div>
                 <div className="item">
-                  <img src={meter3} alt="Image" />
+                  <img src={meter9} alt="Image" />
                   <h5>Python</h5>
                 </div>
               </Carousel>

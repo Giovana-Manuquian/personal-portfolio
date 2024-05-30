@@ -33,9 +33,9 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "Bot do Discord",
+      title: "Quiz Homem-Aranha",
       description: "Design e Desenvolvimento",
-      imgUrl: projImg4,
+      imgUrl: Spider,
     },
     {
       title: "Banner de Jogos",
@@ -54,11 +54,6 @@ export const Projects = () => {
       title: "Jogo da Memória Barbie",
       description: "Design e Desenvolvimento",
       imgUrl: Barbie,
-    },
-    {
-      title: "Quiz Homem-Aranha",
-      description: "Design e Desenvolvimento",
-      imgUrl: Spider,
     },
     {
       title: "Tela Login",

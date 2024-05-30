@@ -519,7 +519,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 14px 48px;
   font-size: 18px;
   margin-top: 25px;
-  border-radius: 0;
+  border-radius: 10px;
   position: relative;
   transition: 0.3s ease-in-out;
 }
@@ -529,10 +529,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .contact form button:hover {
   color: #fff;
+  background-color: black;
 }
 .contact form button::before {
   content: "";
-  background: #121212;
   width: 0;
   height: 100%;
   position: absolute;
