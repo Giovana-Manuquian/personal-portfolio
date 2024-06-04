@@ -6,6 +6,8 @@ import projImg3 from "../assets/img/project-img3.png";
 import projImg4 from "../assets/img/project-img4.png";
 import projImg5 from "../assets/img/project-img5.png";
 import projImg6 from "../assets/img/project-img6.png";
+import projImg7 from "../assets/img/project-img7.png";
+import projImg8 from "../assets/img/project-img8.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -56,11 +58,6 @@ export const Projects = () => {
       imgUrl: Barbie,
     },
     {
-      title: "Tela Login",
-      description: "Design e Desenvolvimento",
-      imgUrl: telaLogin,
-    },
-    {
       title: "Jogo Cartas Animais",
       description: "Design e Desenvolvimento",
       imgUrl: cardAnimal1,
@@ -69,6 +66,21 @@ export const Projects = () => {
       title: "Jogo Cartas Animais",
       description: "Design e Desenvolvimento",
       imgUrl: cardAnimal2,
+    },
+    {
+      title: "Tela Login",
+      description: "Design e Desenvolvimento",
+      imgUrl: telaLogin,
+    },
+    {
+      title: "Jogo RPG Textual",
+      description: "Design e Desenvolvimento",
+      imgUrl: projImg7,
+    },
+    {
+      title: "Jogo RPG Textual",
+      description: "Design e Desenvolvimento",
+      imgUrl: projImg8,
     },
   ];
 

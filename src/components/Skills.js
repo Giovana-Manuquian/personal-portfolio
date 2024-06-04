@@ -7,6 +7,8 @@ import meter6 from "../assets/img/meter6.png";
 import meter7 from "../assets/img/meter7.png";
 import meter8 from "../assets/img/meter8.png";
 import meter9 from "../assets/img/meter9.png";
+import meter10 from "../assets/img/meter10.png";
+import meter11 from "../assets/img/meter11.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import arrow1 from "../assets/img/arrow1.svg";
@@ -79,16 +81,24 @@ export const Skills = () => {
                   <h5>ReactJs</h5>
                 </div>
                 <div className="item">
-                  <img src={meter6} alt="Image" />
-                  <h5>Inglês</h5>
-                </div>
-                <div className="item">
                   <img src={meter8} alt="Image" />
                   <h5>Java</h5>
                 </div>
                 <div className="item">
                   <img src={meter9} alt="Image" />
                   <h5>Python</h5>
+                </div>
+                <div className="item">
+                  <img src={meter10} alt="Image" />
+                  <h5>MySql</h5>
+                </div>
+                <div className="item">
+                  <img src={meter11} alt="Image" />
+                  <h5>GitHub</h5>
+                </div>
+                <div className="item">
+                  <img src={meter6} alt="Image" />
+                  <h5>Inglês</h5>
                 </div>
               </Carousel>
             </div>
